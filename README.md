@@ -18,7 +18,7 @@ npm install -g legopack --link
 ## usage
 
 ```
-legopack ./folder/path
+legopack ./folder/path ~/.ssh/rsa_private
 ```
 
 ## commit
